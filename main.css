@@ -1,0 +1,39 @@
+body{
+background:#52b3d9;
+}
+.orange{
+	background:orange;
+	color:white;
+}
+
+.red{
+	background:red;
+	color:white;
+}
+
+.blue{
+	background:blue;
+	color:white;
+}
+
+.search{
+	height: 100px;
+	width: 100px;
+	padding: 0px 0px 0px 0px;
+	}
+	
+.cop{
+	height: 200px
+	width: 100px;
+}
+.imagenius{
+	visibility:hidden;
+	}
+.reducepadding{
+	margins:0px;
+	}
+.im-centered { margin: auto; max-width: 800px;}
+
+h4{
+	text-align:justify;
+	}
